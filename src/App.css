@@ -1,0 +1,23 @@
+.app-container{
+  min-height: 100vh;
+  width:100%;
+  background-size:cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  position: relative;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: background-image 0.5s ease-in-out;
+}
+
+.light-mode{
+  background-image: url('/hogwartsLight.jpg');
+  color:black;
+}
+
+.dark-mode{
+  background-image: url('/hogwartsDark.jpg');
+  color:white;
+}

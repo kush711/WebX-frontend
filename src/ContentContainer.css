@@ -1,0 +1,10 @@
+#content-container{
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(6px);
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 600px;
+  margin: 10% auto 0;
+  color: inherit;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
