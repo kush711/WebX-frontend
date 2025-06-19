@@ -3,7 +3,7 @@ import './ContentContainer.css'
 
 // Import route components
 import HomePage from "./landingPage/home/HomePage";
-import LoginPage from "./landingPage/login/loginPage";
+import LoginPage from "./landingPage/login/LoginPage";
 import SignupPage from "./landingPage/signup/SignupPage";
 import Dashboard from "./landingPage/dashboard/Dashboard";
 import EditProfile from "./landingPage/editProfile/editProfile";
