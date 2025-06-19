@@ -42,4 +42,5 @@ npm install
 # Start development server
 npm start
 
-
+# Website is hosted on Vercel
+https://web-x-frontend-d1sn.vercel.app/
